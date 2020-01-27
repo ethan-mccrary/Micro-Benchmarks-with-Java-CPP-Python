@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bitonicSortBench>
+	<systemInfo>
+		<processor>		</processor>
+		<memory>
+		</memory>
+	</systemInfo>
+	<tests>
+		<test id="1">
+			<startTime>1573268808427</startTime>
+			<endTime>1573269045634</endTime>
+			<excTime>237207</excTime>
+		</test>
+		<test id="2">
+			<startTime>1573269051126</startTime>
+			<endTime>1573269290225</endTime>
+			<excTime>239099</excTime>
+		</test>
+		<test id="3">
+			<startTime>1573269296573</startTime>
+			<endTime>1573269546410</endTime>
+			<excTime>249837</excTime>
+		</test>
+		<test id="4">
+			<startTime>1573269552967</startTime>
+			<endTime>1573269804087</endTime>
+			<excTime>251120</excTime>
+		</test>
+		<test id="5">
+			<startTime>1573269810440</startTime>
+			<endTime>1573270061240</endTime>
+			<excTime>250800</excTime>
+		</test>
+		<test id="6">
+			<startTime>1573270067619</startTime>
+			<endTime>1573270318595</endTime>
+			<excTime>250976</excTime>
+		</test>
+		<test id="7">
+			<startTime>1573270324889</startTime>
+			<endTime>1573270576127</endTime>
+			<excTime>251238</excTime>
+		</test>
+		<test id="8">
+			<startTime>1573270582492</startTime>
+			<endTime>1573270833300</endTime>
+			<excTime>250808</excTime>
+		</test>
+		<test id="9">
+			<startTime>1573270839591</startTime>
+			<endTime>1573271090417</endTime>
+			<excTime>250826</excTime>
+		</test>
+		<test id="10">
+			<startTime>1573271096715</startTime>
+			<endTime>1573271347429</endTime>
+			<excTime>250714</excTime>
+		</test>
+		<test id="11">
+			<startTime>1573271353789</startTime>
+			<endTime>1573271604558</endTime>
+			<excTime>250769</excTime>
+		</test>
+		<test id="12">
+			<startTime>1573271610866</startTime>
+			<endTime>1573271861524</endTime>
+			<excTime>250658</excTime>
+		</test>
+		<test id="13">
+			<startTime>1573271867858</startTime>
+			<endTime>1573272118498</endTime>
+			<excTime>250640</excTime>
+		</test>
+		<test id="14">
+			<startTime>1573272124871</startTime>
+			<endTime>1573272375487</endTime>
+			<excTime>250616</excTime>
+		</test>
+		<test id="15">
+			<startTime>1573272381771</startTime>
+			<endTime>1573272632684</endTime>
+			<excTime>250913</excTime>
+		</test>
+		<test id="16">
+			<startTime>1573272639045</startTime>
+			<endTime>1573272890030</endTime>
+			<excTime>250985</excTime>
+		</test>
+		<test id="17">
+			<startTime>1573272896402</startTime>
+			<endTime>1573273146784</endTime>
+			<excTime>250382</excTime>
+		</test>
+		<test id="18">
+			<startTime>1573273153136</startTime>
+			<endTime>1573273403966</endTime>
+			<excTime>250830</excTime>
+		</test>
+		<test id="19">
+			<startTime>1573273410327</startTime>
+			<endTime>1573273660958</endTime>
+			<excTime>250631</excTime>
+		</test>
+		<test id="20">
+			<startTime>1573273667321</startTime>
+			<endTime>1573273917856</endTime>
+			<excTime>250535</excTime>
+		</test>
+		<test id="21">
+			<startTime>1573273924145</startTime>
+			<endTime>1573274174803</endTime>
+			<excTime>250658</excTime>
+		</test>
+		<test id="22">
+			<startTime>1573274181103</startTime>
+			<endTime>1573274432031</endTime>
+			<excTime>250928</excTime>
+		</test>
+		<test id="23">
+			<startTime>1573274438420</startTime>
+			<endTime>1573274688812</endTime>
+			<excTime>250392</excTime>
+		</test>
+		<test id="24">
+			<startTime>1573274695177</startTime>
+			<endTime>1573274945951</endTime>
+			<excTime>250774</excTime>
+		</test>
+		<test id="25">
+			<startTime>1573274952246</startTime>
+			<endTime>1573275202738</endTime>
+			<excTime>250492</excTime>
+		</test>
+	</tests>
+	<results>
+		<totalBenchTime>6394311</totalBenchTime>
+		<avg>249713</avg>
+	</results>
+</bitonicSortBench>

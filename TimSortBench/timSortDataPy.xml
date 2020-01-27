@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timSortBench>
+	<systemInfo>
+		<processor>		</processor>
+		<memory>
+		</memory>
+	</systemInfo>
+	<tests>
+		<test id="1">
+			<startTime>1573448272428</startTime>
+			<endTime>1573448325434</endTime>
+			<excTime>53006</excTime>
+		</test>
+		<test id="2">
+			<startTime>1573448332017</startTime>
+			<endTime>1573448386297</endTime>
+			<excTime>54280</excTime>
+		</test>
+		<test id="3">
+			<startTime>1573448393783</startTime>
+			<endTime>1573448468550</endTime>
+			<excTime>74767</excTime>
+		</test>
+		<test id="4">
+			<startTime>1573448476067</startTime>
+			<endTime>1573448552329</endTime>
+			<excTime>76262</excTime>
+		</test>
+		<test id="5">
+			<startTime>1573448559845</startTime>
+			<endTime>1573448636049</endTime>
+			<excTime>76204</excTime>
+		</test>
+		<test id="6">
+			<startTime>1573448643567</startTime>
+			<endTime>1573448720079</endTime>
+			<excTime>76512</excTime>
+		</test>
+		<test id="7">
+			<startTime>1573448727590</startTime>
+			<endTime>1573448803820</endTime>
+			<excTime>76230</excTime>
+		</test>
+		<test id="8">
+			<startTime>1573448811343</startTime>
+			<endTime>1573448887674</endTime>
+			<excTime>76331</excTime>
+		</test>
+		<test id="9">
+			<startTime>1573448895185</startTime>
+			<endTime>1573448971505</endTime>
+			<excTime>76320</excTime>
+		</test>
+		<test id="10">
+			<startTime>1573448979030</startTime>
+			<endTime>1573449055545</endTime>
+			<excTime>76515</excTime>
+		</test>
+		<test id="11">
+			<startTime>1573449063072</startTime>
+			<endTime>1573449139615</endTime>
+			<excTime>76543</excTime>
+		</test>
+		<test id="12">
+			<startTime>1573449147127</startTime>
+			<endTime>1573449223430</endTime>
+			<excTime>76303</excTime>
+		</test>
+		<test id="13">
+			<startTime>1573449230949</startTime>
+			<endTime>1573449306932</endTime>
+			<excTime>75983</excTime>
+		</test>
+		<test id="14">
+			<startTime>1573449314435</startTime>
+			<endTime>1573449391126</endTime>
+			<excTime>76691</excTime>
+		</test>
+		<test id="15">
+			<startTime>1573449398628</startTime>
+			<endTime>1573449474743</endTime>
+			<excTime>76115</excTime>
+		</test>
+		<test id="16">
+			<startTime>1573449482264</startTime>
+			<endTime>1573449558650</endTime>
+			<excTime>76386</excTime>
+		</test>
+		<test id="17">
+			<startTime>1573449566174</startTime>
+			<endTime>1573449642248</endTime>
+			<excTime>76074</excTime>
+		</test>
+		<test id="18">
+			<startTime>1573449649765</startTime>
+			<endTime>1573449726052</endTime>
+			<excTime>76287</excTime>
+		</test>
+		<test id="19">
+			<startTime>1573449733557</startTime>
+			<endTime>1573449809535</endTime>
+			<excTime>75978</excTime>
+		</test>
+		<test id="20">
+			<startTime>1573449817063</startTime>
+			<endTime>1573449893168</endTime>
+			<excTime>76105</excTime>
+		</test>
+		<test id="21">
+			<startTime>1573449900687</startTime>
+			<endTime>1573449977131</endTime>
+			<excTime>76444</excTime>
+		</test>
+		<test id="22">
+			<startTime>1573449984648</startTime>
+			<endTime>1573450060746</endTime>
+			<excTime>76098</excTime>
+		</test>
+		<test id="23">
+			<startTime>1573450068261</startTime>
+			<endTime>1573450144203</endTime>
+			<excTime>75942</excTime>
+		</test>
+		<test id="24">
+			<startTime>1573450151733</startTime>
+			<endTime>1573450228000</endTime>
+			<excTime>76267</excTime>
+		</test>
+		<test id="25">
+			<startTime>1573450235511</startTime>
+			<endTime>1573450311494</endTime>
+			<excTime>75983</excTime>
+		</test>
+	</tests>
+	<results>
+		<totalBenchTime>2039066</totalBenchTime>
+		<avg>74385</avg>
+	</results>
+</timSortBench>
